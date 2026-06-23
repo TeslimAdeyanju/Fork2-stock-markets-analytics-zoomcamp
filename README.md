@@ -11,7 +11,7 @@
 - Join the [`#course-stocks-analytics-zoomcamp`](https://datatalks-club.slack.com/archives/C06L1RTF10F) channel
 - Join the [course Telegram channel with announcements](https://t.me/stockanalyticszoomcamp)
 - The videos are published on [PythonInvest's YouTube channel](https://www.youtube.com/@pythoninvest) 
-- [Frequently asked technical questions](https://docs.google.com/document/d/1ABQD6ns4vZHKu2dHGqqJ85LCOF7LzxqfvWBVXb_-M9E/edit?usp=sharing)
+- [Frequently asked technical questions](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html)
 
 
 
@@ -82,7 +82,7 @@ can take the course at your own pace
 
 * Follow the suggested syllabus (see below) week by week
 * You don't need to fill in the registration form. Just start watching the videos and join Slack
-* Check [FAQ](https://docs.google.com/document/d/1ABQD6ns4vZHKu2dHGqqJ85LCOF7LzxqfvWBVXb_-M9E/edit?usp=sharing) if you have problems
+* Check [FAQ](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html) if you have problems
 * If you can't find a solution to your problem in FAQ, ask for help in Slack
 
 
@@ -190,7 +190,7 @@ To make discussions in Slack more organized:
 * Read the [DataTalks.Club community guidelines](https://datatalks.club/slack/guidelines.html)
 
 * Follow these recommendations when asking for help in Slack:
-  * Before posting a question, try to Google it and Check Course's FAQ ([Frequently asked technical questions](https://docs.google.com/document/d/1ABQD6ns4vZHKu2dHGqqJ85LCOF7LzxqfvWBVXb_-M9E/edit?usp=sharing)) first
+  * Before posting a question, try to Google it and Check Course's FAQ ([Frequently asked technical questions](https://datatalks.club/faq/stock-markets-analytics-zoomcamp.html)) first
   * DO NOT use screenshots, especially don’t take pictures from a phone.
   * DO NOT tag instructors, it may discourage others from helping you.
   * Copy and paste errors; if it’s long, just post it in a reply to your thread. 
